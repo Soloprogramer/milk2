@@ -1,2 +1,1 @@
-# milk2
-solution to USACO milk2 problem in cpp
+# i store here solutions to problems which i enjoyes solving 
