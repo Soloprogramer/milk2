@@ -1,1 +1,1 @@
-# i store here solutions to problems which i enjoyes solving 
+# i store here solutions to problems which i enjoyed solving 
